@@ -1,0 +1,9 @@
+{
+    "entryPoints": [
+        "src/index.ts",
+        "src/index.tsx",
+        "src/main.ts", 
+        "src/main.tsx"
+    ],
+    "out": "docs"
+}
